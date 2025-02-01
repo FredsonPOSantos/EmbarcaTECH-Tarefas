@@ -36,7 +36,7 @@ make
 ...existing code...
 
 ## 👨‍💻 Desenvolvedores
-- **Fredson Pereira de Oliveira Santos** - Desenvolvimento do contador com matriz LED - [GitHub](https://github.com/FredsonPOSantos)
+- **Fredson Pereira de Oliveira Santos** - Desenvolvimento do contador com matriz LED - [GitHub](https://github.com/FredsonPOSantos/EmbarcaTECH-Tarefas)
 
 ## 📖 Instruções de Uso
 1. **Botões:**
